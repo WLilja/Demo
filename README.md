@@ -5,4 +5,7 @@ demooo
   qwe
 
 ## Wohoooo
-'Watch me whip
+'Watch me whipa
+
+## Local development
+1. Open index.html in your browser
